@@ -15,4 +15,5 @@ ActiveRecord::Schema.define(version: 1) do
         t.string "name"
         t.integer "grade"
         t.datetime "birthdate"
+    end
 end
